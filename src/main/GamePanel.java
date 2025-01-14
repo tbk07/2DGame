@@ -29,7 +29,9 @@ public class GamePanel extends JPanel implements Runnable {
 	int playerY = screenHeight/2;
 	int playerSpeed = 4;
 	// FPS
-	int FPS = 240;
+	int FPS = 60;
+	
+	
 	
 	
 	
